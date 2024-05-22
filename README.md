@@ -1,7 +1,7 @@
 # matt
 My personal repository
 # 💫 About Me:
-🔭 I’m currently working on improving my technical knowledge<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with increasing my programming abilities<br>🌱 I’m currently learning Python<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on improving my technical knowledge<br>👯 I’m looking to collaborate on learning<br>🤝 I’m looking for help with increasing my programming abilities<br>🌱 I’m currently learning Python<br>💬 Ask me about<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
